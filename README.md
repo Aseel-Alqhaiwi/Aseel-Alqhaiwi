@@ -14,7 +14,7 @@
 - 🏢 I'm a Software Engineer
 - 👨‍💻 As a SE student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, and ReactJS or anything related to web development.
-- 👨‍💻 Check out my portfolio at https://aseel-alqhaiwi.github.io/Portfolio/ to see some of the projects I've worked on.
+- 👨‍💻 Check out my portfolio at https://aseel-alqhaiwi.github.io/Aseel-Portfolio/ to see some of the projects I've worked on.
 
 
 ### Connect with Me :
